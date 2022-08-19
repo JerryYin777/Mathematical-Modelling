@@ -1,4 +1,4 @@
-## Mathematical-modelling
+## Mathematical-odelling
 
 ### 简介
 
