@@ -13,7 +13,7 @@ Hi，这里是Jerry，大二的数学建模编程手，技能是Python和Matlab,
 
 #### 详细地址
 
-百度网盘链接：https://pan.baidu.com/s/1rHzex4iIwiI-6KASSPCckA?pwd=nbia 
+百度网盘链接：[芝士网盘](https://pan.baidu.com/s/1rHzex4iIwiI-6KASSPCckA?pwd=nbia) 
 
 ### 竞赛记录
 
